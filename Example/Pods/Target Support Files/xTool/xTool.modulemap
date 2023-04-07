@@ -1,0 +1,6 @@
+framework module xTool {
+  umbrella header "xTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

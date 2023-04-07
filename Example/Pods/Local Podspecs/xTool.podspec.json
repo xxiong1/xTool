@@ -1,0 +1,22 @@
+{
+  "name": "xTool",
+  "version": "0.1.0",
+  "summary": "A short description of xTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/熊祚平/xTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "熊祚平": "1593349773@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/熊祚平/xTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "xTool/Classes/**/*"
+}

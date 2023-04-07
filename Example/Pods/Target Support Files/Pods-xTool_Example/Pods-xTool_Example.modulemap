@@ -1,0 +1,6 @@
+framework module Pods_xTool_Example {
+  umbrella header "Pods-xTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

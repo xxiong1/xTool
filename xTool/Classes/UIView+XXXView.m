@@ -7,6 +7,7 @@
 //
 
 #import "UIView+XXXView.h"
+#import "XXXPublic.h"
 
 @implementation UIView (XView)
 
